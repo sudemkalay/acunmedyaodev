@@ -1,0 +1,30 @@
+/Users/ravzasudemkalay/Desktop/acunmedyaOdev/odev2/odev2/odev2/bin/Debug/net7.0/odev2
+/Users/ravzasudemkalay/Desktop/acunmedyaOdev/odev2/odev2/odev2/bin/Debug/net7.0/odev2.deps.json
+/Users/ravzasudemkalay/Desktop/acunmedyaOdev/odev2/odev2/odev2/bin/Debug/net7.0/odev2.runtimeconfig.json
+/Users/ravzasudemkalay/Desktop/acunmedyaOdev/odev2/odev2/odev2/bin/Debug/net7.0/odev2.dll
+/Users/ravzasudemkalay/Desktop/acunmedyaOdev/odev2/odev2/odev2/bin/Debug/net7.0/odev2.pdb
+/Users/ravzasudemkalay/Desktop/acunmedyaOdev/odev2/odev2/odev2/obj/Debug/net7.0/odev2.csproj.AssemblyReference.cache
+/Users/ravzasudemkalay/Desktop/acunmedyaOdev/odev2/odev2/odev2/obj/Debug/net7.0/odev2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ravzasudemkalay/Desktop/acunmedyaOdev/odev2/odev2/odev2/obj/Debug/net7.0/odev2.AssemblyInfoInputs.cache
+/Users/ravzasudemkalay/Desktop/acunmedyaOdev/odev2/odev2/odev2/obj/Debug/net7.0/odev2.AssemblyInfo.cs
+/Users/ravzasudemkalay/Desktop/acunmedyaOdev/odev2/odev2/odev2/obj/Debug/net7.0/odev2.csproj.CoreCompileInputs.cache
+/Users/ravzasudemkalay/Desktop/acunmedyaOdev/odev2/odev2/odev2/obj/Debug/net7.0/odev2.dll
+/Users/ravzasudemkalay/Desktop/acunmedyaOdev/odev2/odev2/odev2/obj/Debug/net7.0/refint/odev2.dll
+/Users/ravzasudemkalay/Desktop/acunmedyaOdev/odev2/odev2/odev2/obj/Debug/net7.0/odev2.pdb
+/Users/ravzasudemkalay/Desktop/acunmedyaOdev/odev2/odev2/odev2/obj/Debug/net7.0/odev2.genruntimeconfig.cache
+/Users/ravzasudemkalay/Desktop/acunmedyaOdev/odev2/odev2/odev2/obj/Debug/net7.0/ref/odev2.dll
+/Users/ravzasudemkalay/Desktop/acunmedya odevler/odev2/odev2/odev2/bin/Debug/net7.0/odev2
+/Users/ravzasudemkalay/Desktop/acunmedya odevler/odev2/odev2/odev2/bin/Debug/net7.0/odev2.deps.json
+/Users/ravzasudemkalay/Desktop/acunmedya odevler/odev2/odev2/odev2/bin/Debug/net7.0/odev2.runtimeconfig.json
+/Users/ravzasudemkalay/Desktop/acunmedya odevler/odev2/odev2/odev2/bin/Debug/net7.0/odev2.dll
+/Users/ravzasudemkalay/Desktop/acunmedya odevler/odev2/odev2/odev2/bin/Debug/net7.0/odev2.pdb
+/Users/ravzasudemkalay/Desktop/acunmedya odevler/odev2/odev2/odev2/obj/Debug/net7.0/odev2.csproj.AssemblyReference.cache
+/Users/ravzasudemkalay/Desktop/acunmedya odevler/odev2/odev2/odev2/obj/Debug/net7.0/odev2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ravzasudemkalay/Desktop/acunmedya odevler/odev2/odev2/odev2/obj/Debug/net7.0/odev2.AssemblyInfoInputs.cache
+/Users/ravzasudemkalay/Desktop/acunmedya odevler/odev2/odev2/odev2/obj/Debug/net7.0/odev2.AssemblyInfo.cs
+/Users/ravzasudemkalay/Desktop/acunmedya odevler/odev2/odev2/odev2/obj/Debug/net7.0/odev2.csproj.CoreCompileInputs.cache
+/Users/ravzasudemkalay/Desktop/acunmedya odevler/odev2/odev2/odev2/obj/Debug/net7.0/odev2.dll
+/Users/ravzasudemkalay/Desktop/acunmedya odevler/odev2/odev2/odev2/obj/Debug/net7.0/refint/odev2.dll
+/Users/ravzasudemkalay/Desktop/acunmedya odevler/odev2/odev2/odev2/obj/Debug/net7.0/odev2.pdb
+/Users/ravzasudemkalay/Desktop/acunmedya odevler/odev2/odev2/odev2/obj/Debug/net7.0/odev2.genruntimeconfig.cache
+/Users/ravzasudemkalay/Desktop/acunmedya odevler/odev2/odev2/odev2/obj/Debug/net7.0/ref/odev2.dll

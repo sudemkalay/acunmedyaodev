@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{DD0A284B-5F1F-4F6F-A7B1-645BF797AD5A}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.odev2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="odev2/Program.cs">
+    <Files>
+      <File FileName="../../acunmedyaodev/acunmedyaodev/Program.cs" />
+      <File FileName="odev2/Program.cs" Line="74" Column="1" />
+      <File FileName="odev2/classes/Araba.cs" />
+      <File FileName="odev2/classes/Mercedes.cs" />
+      <File FileName="odev2/classes/Bmw.cs" />
+      <File FileName="odev2/classes/Audi.cs" />
+      <File FileName="odev2/classes/Calısan.cs" />
+      <File FileName="odev2/classes/GenelMudur.cs" />
+      <File FileName="odev2/classes/Mudur.cs" />
+      <File FileName="odev2/classes/Programcı.cs" />
+      <File FileName="odev2/classes/Stajyer.cs" />
+      <File FileName="odev2/Abstract/Araba2.cs" />
+      <File FileName="odev2/Abstract/BMW2.cs" />
+      <File FileName="odev2/Abstract/Mercedes2.cs" />
+      <File FileName="odev2/Abstract/Porsche2.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="odev2" expanded="True">
+            <Node name="odev2" expanded="True">
+              <Node name="Abstract" expanded="True" />
+              <Node name="classes" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
